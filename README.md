@@ -16,7 +16,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | Name                          | Roll No | Resume                                                                                        |
 | ----------------------------- | ------- | --------------------------------------------------------------------------------------------- |
 | Abhaya Pratap Singh           | 190019  | [Link](https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing)    |
-| Abhishek Sangwan              | 200021  |
+| Abhishek Sangwan              | 200021  | [Link](https://drive.google.com/file/d/1-igkARvEBN9q_FNoooMTC134hOJNDgiJ/view?usp=sharing)    |
 | Adheena Jose                  | 200035  | [Link](https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing)    |
 | Aman Kumar Singh              | 200100  | [Link](https://amanks-20.github.io/GI_Project_Resume/)                                        |
 | Amit Kumar Yadav              | 190118  |
